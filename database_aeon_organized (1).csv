@@ -1,0 +1,396 @@
+Tipo,Projeto,Cliente Final,Status,Valor Geral,EPC_Type,EPC
+UFV,Arinos ,Sem cliente final,2024,5256618.11,EPC1,CET
+UFV ,Babilonia Centro,Casa dos Ventos,2024,4213668.78,EPC1,Zopone
+UFV ,Babilonia Sul,Casa dos Ventos,2024,4213668.78,EPC1,Zopone
+UFV,Boa Esperança,CEMIG,2024,2229727.26,EPC1,CET
+UFV,Bom Jardim 1 e 3,Qair,2024,3576177.88,EPC1,Agaspar
+UFV,Cajú Flutuante,Elera ,2024,1192961.01,EPC1,Dois A
+UFV,Capitão Enéas,Sem cliente final,2024,2763781.5,EPC1,Abengoa
+UFV,Eliseu Martins,Sem cliente final,2024,2900730.17,EPC1,Não tem epc
+UFV,Fótons de São M. FASE 1,Pan American Energy,2024,8548163.49,EPC1,Andrade Gutierrez
+UFV,Fótons de São M. FASE 2,Pan American Energy,2024,4842048.0,EPC1,Andrade Gutierrez
+SE,Frederico Westphalen,EDPR,Perdeu,882182.94,EPC1,Progen
+UHE ,Funil de Lavras,Aliança Energia,2024,985138.58,EPC1,Sem EPCista
+OUT,Futura - Ampliar Autonomia,Eneva,2024,0.0,EPC1,Sem EPCista
+UFV,Irapuru,Elera ,2024,7906990.84,EPC1,Não tem epc
+UFV,Irecê II,Sem cliente final,2024,2676053.73,EPC1,Não tem epc
+UFV,Lagoinha,CGN,2024,3856450.4,EPC1,Não tem epc
+UFV,Luis Carlos A,Atlas Renewable,2024,6044932.24,EPC1,Sigdo Koppers
+UFV,Luis Carlos B,Atlas Renewable,2024,7302142.19,EPC1,Não tem epc
+UFV,Monte Verde 2,Sem cliente final,2024,4594991.67,EPC1,Agaspar
+UFV,Morro dos Cruzeiros,Statkraft,2024,2427566.87,EPC1,Quebec
+REF,Refinaria Abreu e Lima,Petrobrás,2024,2694235.14,EPC1,Tenenge
+UFV,Riacho da Serra (Opção Fence),Exus Brasil,2024,4997612.63,EPC1,Tenenge
+UFV,Santa Eugênia,Statkraft,2024,4829741.81,EPC1,Quebec
+UFV,Santa Luzia,Rio Alto,2024,2786008.29,EPC1,Sem EPCista
+EOL,Santo Agostinho,Engie,2024,0.0,EPC1,Não tem epc
+UFV,São Vitor (Opção Fence),Essentia,2024,2981764.52,EPC1,Zopone
+UFV,Serra do Mel 7,Voltalia,2024,5349318.28,EPC1,GEL
+UFV,Serrita,Eco Energia,Ganhou,2558786.06,EPC1,Elecnor
+UFV,Sobral,Cubico ,Perdeu,8577698.89,EPC1,Andrade Gutierrez
+UFV ,Sol de Várzea,Matrix,2024,2225674.49,EPC1,Elastri
+UFV,Sol do Agreste (Opção Fence),Atiaia,2024,6737698.81,EPC1,Elecnor
+UFV,Sol Serena,Sem cliente final,2024,2490716.73,EPC1,Não tem epc
+EOL,Trairí,Engie,2024,3753045.34,EPC1,Sem EPCista
+SE,Vista Alegre,Atlas  ,Perdeu,1108544.64,EPC1,Cymi
+OUT,Vista Alegre - Prédio O&M,Atlas,2024,334035.1,EPC1,Grupo Agis
+UFV,Arapuã,Kroma,2025,4176536.65,EPC1,Eco Soluções de Energia
+SE,Assú Solar,Engie,2025,897045.12,EPC1,Cymi
+UFV ,Aventura (GD?),Copel,2025,0.0,EPC1,Dois A
+UFV,Barro do Alto,Green Yellow,2025,6268280.69,EPC1,Grupo Agis
+UFV,Bom Jardim 2 e 5,Qair,2025,1793174.78,EPC1,Agaspar
+UFV,Bom Lugar,LigthSource,2025,4697505.67,EPC1,Dois A / Motrice
+UFV ,Bonito PERIMETRAL,Neoenergia,2025,8901675.76,EPC1,Motrice
+UFV,Cobra I a X (UFV LINS?),Sem cliente final,2025,3370233.44,EPC1,CESBE
+UFV,Cruzeiro do  Sul,Newave,2025,4299962.44,EPC1,Grupo Agis
+UFV,da Solatio,Sem cliente final,2025,0.0,EPC1,Não tem epc
+UFV,Humaita,Ibvgot,2025,3933497.83,EPC1,Elecnor
+UFV,Lagoa  ,EDPR,2025,4479498.35,EPC1,Sem EPCista
+UFV,Lagoa do Sol I a V,Enel Green Power,2025,3861257.66,EPC1,Agaspar
+UFV,Sagarana,Essentia,2025,9910163.59,EPC1,GEL
+UFV,Sol do Araripe,Auren,2025,4396545.58,EPC1,Zopone
+UFV,Sol do Piauí ll,Auren,2025,2741894.32,EPC1,Zopone
+UFV,Sol do Piauí lll,Auren,2025,2779684.49,EPC1,Zopone
+EOL,Aroeira,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+EOL,Brejinhos ,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+UFV,Caatinga 23 (GD?),Helexia,Sem Previsão,0.0,EPC1,Dois A
+EOL ,Cajuína,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+UFV ,Coração de Maria (GD?),Helexia,Sem Previsão,0.0,EPC1,Dois A
+EOL,Coxilha Negra,Eletrobrás,Sem Previsão,0.0,EPC1,Não tem epc
+UFV,Cristalina,X-Elio,Sem Previsão,5838264.66,EPC1,Nova Engevix
+UFV,Fenix,EDPR,Sem Previsão,8699635.5,EPC1,Ecotechene
+OUT,Fenix Alimentação Autônoma,EDPR,Sem Previsão,5918711.39,EPC1,Não tem epc
+UFV ,Fótons de São Zacarias,Sem cliente final,Sem Previsão,3521143.23,EPC1,Elecnor
+UFV,Genesis,Pontoon,Sem Previsão,4209413.37,EPC1,Nova Engevix
+SE,Luziânia,StateGrid,Sem Previsão,1954877.52,EPC1,Abengoa
+UFV,Mauriti,PowerChina,Sem Previsão,12877386.28,EPC1,Não tem epc
+UFV,Minas do Sol,EDPR,Sem Previsão,4581225.21,EPC1,AMP
+EOL,Passagens,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+EOL,Pedra Pintada,Enel,Sem Previsão,0.0,EPC1,Não tem epc
+SE,Piaui Níquel,Sem cliente final,Sem Previsão,1347322.4,EPC1,Sigdo Koppers
+UFV,Serena,Sem cliente final,Sem Previsão,2490716.73,EPC1,Elecnor
+UFV,Serra da Babilônia,Rio Energy,Sem Previsão,3606482.02,EPC1,Elecnor
+EOL,Serra das Vacas,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+EOL,Serra do Assuruá,Engie,Sem Previsão,0.0,EPC1,Não tem epc
+UFV ,Sol 345,Serena,Sem Previsão,2490716.73,EPC1,Dois A
+UFV,Sol de Várzea,Matrix,Sem Previsão,2225674.49,EPC1,Nova Engevix
+TUN,Túnel Piraí,Light ,Sem Previsão,155887.24,EPC1,Nova Engevix
+EOL,Ventos de Santa Luzia,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+EOL,Ventos de São Roque,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+EOL,Ventos de São Zacarias,Sem cliente final,Sem Previsão,0.0,EPC1,Não tem epc
+UFV,Arinos ,Sem cliente final,2024,5256618.11,EPC2, 
+UFV ,Babilonia Centro,Casa dos Ventos,2024,4213668.78,EPC2, 
+UFV ,Babilonia Sul,Casa dos Ventos,2024,4213668.78,EPC2, 
+UFV,Boa Esperança,CEMIG,2024,2229727.26,EPC2, 
+UFV,Bom Jardim 1 e 3,Qair,2024,3576177.88,EPC2,Elastri
+UFV,Cajú Flutuante,Elera ,2024,1192961.01,EPC2, 
+UFV,Capitão Enéas,Sem cliente final,2024,2763781.5,EPC2, 
+UFV,Eliseu Martins,Sem cliente final,2024,2900730.17,EPC2, 
+UFV,Fótons de São M. FASE 1,Pan American Energy,2024,8548163.49,EPC2, 
+UFV,Fótons de São M. FASE 2,Pan American Energy,2024,4842048.0,EPC2, 
+SE,Frederico Westphalen,EDPR,Perdeu,882182.94,EPC2, 
+UHE ,Funil de Lavras,Aliança Energia,2024,985138.58,EPC2, 
+OUT,Futura - Ampliar Autonomia,Eneva,2024,0.0,EPC2, 
+UFV,Irapuru,Elera ,2024,7906990.84,EPC2, 
+UFV,Irecê II,Sem cliente final,2024,2676053.73,EPC2, 
+UFV,Lagoinha,CGN,2024,3856450.4,EPC2, 
+UFV,Luis Carlos A,Atlas Renewable,2024,6044932.24,EPC2,Elecnor
+UFV,Luis Carlos B,Atlas Renewable,2024,7302142.19,EPC2, 
+UFV,Monte Verde 2,Sem cliente final,2024,4594991.67,EPC2, 
+UFV,Morro dos Cruzeiros,Statkraft,2024,2427566.87,EPC2, 
+REF,Refinaria Abreu e Lima,Petrobrás,2024,2694235.14,EPC2, 
+UFV,Riacho da Serra (Opção Fence),Exus Brasil,2024,4997612.63,EPC2, 
+UFV,Santa Eugênia,Statkraft,2024,4829741.81,EPC2, 
+UFV,Santa Luzia,Rio Alto,2024,2786008.29,EPC2, 
+EOL,Santo Agostinho,Engie,2024,0.0,EPC2, 
+UFV,São Vitor (Opção Fence),Essentia,2024,2981764.52,EPC2,GEL
+UFV,Serra do Mel 7,Voltalia,2024,5349318.28,EPC2, 
+UFV,Serrita,Eco Energia,Ganhou,2558786.06,EPC2, 
+UFV,Sobral,Cubico ,Perdeu,8577698.89,EPC2, 
+UFV ,Sol de Várzea,Matrix,2024,2225674.49,EPC2, 
+UFV,Sol do Agreste (Opção Fence),Atiaia,2024,6737698.81,EPC2, 
+UFV,Sol Serena,Sem cliente final,2024,2490716.73,EPC2, 
+EOL,Trairí,Engie,2024,3753045.34,EPC2, 
+SE,Vista Alegre,Atlas  ,Perdeu,1108544.64,EPC2, 
+OUT,Vista Alegre - Prédio O&M,Atlas,2024,334035.1,EPC2, 
+UFV,Arapuã,Kroma,2025,4176536.65,EPC2, 
+SE,Assú Solar,Engie,2025,897045.12,EPC2, 
+UFV ,Aventura (GD?),Copel,2025,0.0,EPC2, 
+UFV,Barro do Alto,Green Yellow,2025,6268280.69,EPC2, 
+UFV,Bom Jardim 2 e 5,Qair,2025,1793174.78,EPC2,Elastri
+UFV,Bom Lugar,LigthSource,2025,4697505.67,EPC2, 
+UFV ,Bonito PERIMETRAL,Neoenergia,2025,8901675.76,EPC2, 
+UFV,Cobra I a X (UFV LINS?),Sem cliente final,2025,3370233.44,EPC2, 
+UFV,Cruzeiro do  Sul,Newave,2025,4299962.44,EPC2, 
+UFV,da Solatio,Sem cliente final,2025,0.0,EPC2, 
+UFV,Humaita,Ibvgot,2025,3933497.83,EPC2,Grupo Agis
+UFV,Lagoa  ,EDPR,2025,4479498.35,EPC2, 
+UFV,Lagoa do Sol I a V,Enel Green Power,2025,3861257.66,EPC2, 
+UFV,Sagarana,Essentia,2025,9910163.59,EPC2,Elecnor
+UFV,Sol do Araripe,Auren,2025,4396545.58,EPC2,Simm Soluções
+UFV,Sol do Piauí ll,Auren,2025,2741894.32,EPC2,Simm Soluções
+UFV,Sol do Piauí lll,Auren,2025,2779684.49,EPC2,Simm Soluções
+EOL,Aroeira,Sem cliente final,Sem Previsão,0.0,EPC2, 
+EOL,Brejinhos ,Sem cliente final,Sem Previsão,0.0,EPC2, 
+UFV,Caatinga 23 (GD?),Helexia,Sem Previsão,0.0,EPC2, 
+EOL ,Cajuína,Sem cliente final,Sem Previsão,0.0,EPC2, 
+UFV ,Coração de Maria (GD?),Helexia,Sem Previsão,0.0,EPC2, 
+EOL,Coxilha Negra,Eletrobrás,Sem Previsão,0.0,EPC2, 
+UFV,Cristalina,X-Elio,Sem Previsão,5838264.66,EPC2, 
+UFV,Fenix,EDPR,Sem Previsão,8699635.5,EPC2, 
+OUT,Fenix Alimentação Autônoma,EDPR,Sem Previsão,5918711.39,EPC2, 
+UFV ,Fótons de São Zacarias,Sem cliente final,Sem Previsão,3521143.23,EPC2, 
+UFV,Genesis,Pontoon,Sem Previsão,4209413.37,EPC2,CITIC
+SE,Luziânia,StateGrid,Sem Previsão,1954877.52,EPC2, 
+UFV,Mauriti,PowerChina,Sem Previsão,12877386.28,EPC2, 
+UFV,Minas do Sol,EDPR,Sem Previsão,4581225.21,EPC2,Elecnor
+EOL,Passagens,Sem cliente final,Sem Previsão,0.0,EPC2, 
+EOL,Pedra Pintada,Enel,Sem Previsão,0.0,EPC2, 
+SE,Piaui Níquel,Sem cliente final,Sem Previsão,1347322.4,EPC2, 
+UFV,Serena,Sem cliente final,Sem Previsão,2490716.73,EPC2, 
+UFV,Serra da Babilônia,Rio Energy,Sem Previsão,3606482.02,EPC2,Andrade Gutierrez
+EOL,Serra das Vacas,Sem cliente final,Sem Previsão,0.0,EPC2, 
+EOL,Serra do Assuruá,Engie,Sem Previsão,0.0,EPC2, 
+UFV ,Sol 345,Serena,Sem Previsão,2490716.73,EPC2, 
+UFV,Sol de Várzea,Matrix,Sem Previsão,2225674.49,EPC2, 
+TUN,Túnel Piraí,Light ,Sem Previsão,155887.24,EPC2, 
+EOL,Ventos de Santa Luzia,Sem cliente final,Sem Previsão,0.0,EPC2, 
+EOL,Ventos de São Roque,Sem cliente final,Sem Previsão,0.0,EPC2, 
+EOL,Ventos de São Zacarias,Sem cliente final,Sem Previsão,0.0,EPC2, 
+UFV,Arinos ,Sem cliente final,2024,5256618.11,EPC3, 
+UFV ,Babilonia Centro,Casa dos Ventos,2024,4213668.78,EPC3, 
+UFV ,Babilonia Sul,Casa dos Ventos,2024,4213668.78,EPC3, 
+UFV,Boa Esperança,CEMIG,2024,2229727.26,EPC3, 
+UFV,Bom Jardim 1 e 3,Qair,2024,3576177.88,EPC3, 
+UFV,Cajú Flutuante,Elera ,2024,1192961.01,EPC3, 
+UFV,Capitão Enéas,Sem cliente final,2024,2763781.5,EPC3, 
+UFV,Eliseu Martins,Sem cliente final,2024,2900730.17,EPC3, 
+UFV,Fótons de São M. FASE 1,Pan American Energy,2024,8548163.49,EPC3, 
+UFV,Fótons de São M. FASE 2,Pan American Energy,2024,4842048.0,EPC3, 
+SE,Frederico Westphalen,EDPR,Perdeu,882182.94,EPC3, 
+UHE ,Funil de Lavras,Aliança Energia,2024,985138.58,EPC3, 
+OUT,Futura - Ampliar Autonomia,Eneva,2024,0.0,EPC3, 
+UFV,Irapuru,Elera ,2024,7906990.84,EPC3, 
+UFV,Irecê II,Sem cliente final,2024,2676053.73,EPC3, 
+UFV,Lagoinha,CGN,2024,3856450.4,EPC3, 
+UFV,Luis Carlos A,Atlas Renewable,2024,6044932.24,EPC3,Nova Engevix
+UFV,Luis Carlos B,Atlas Renewable,2024,7302142.19,EPC3, 
+UFV,Monte Verde 2,Sem cliente final,2024,4594991.67,EPC3, 
+UFV,Morro dos Cruzeiros,Statkraft,2024,2427566.87,EPC3, 
+REF,Refinaria Abreu e Lima,Petrobrás,2024,2694235.14,EPC3, 
+UFV,Riacho da Serra (Opção Fence),Exus Brasil,2024,4997612.63,EPC3, 
+UFV,Santa Eugênia,Statkraft,2024,4829741.81,EPC3, 
+UFV,Santa Luzia,Rio Alto,2024,2786008.29,EPC3, 
+EOL,Santo Agostinho,Engie,2024,0.0,EPC3, 
+UFV,São Vitor (Opção Fence),Essentia,2024,2981764.52,EPC3,Dois A / Motrice
+UFV,Serra do Mel 7,Voltalia,2024,5349318.28,EPC3, 
+UFV,Serrita,Eco Energia,Ganhou,2558786.06,EPC3, 
+UFV,Sobral,Cubico ,Perdeu,8577698.89,EPC3, 
+UFV ,Sol de Várzea,Matrix,2024,2225674.49,EPC3, 
+UFV,Sol do Agreste (Opção Fence),Atiaia,2024,6737698.81,EPC3, 
+UFV,Sol Serena,Sem cliente final,2024,2490716.73,EPC3, 
+EOL,Trairí,Engie,2024,3753045.34,EPC3, 
+SE,Vista Alegre,Atlas  ,Perdeu,1108544.64,EPC3, 
+OUT,Vista Alegre - Prédio O&M,Atlas,2024,334035.1,EPC3, 
+UFV,Arapuã,Kroma,2025,4176536.65,EPC3, 
+SE,Assú Solar,Engie,2025,897045.12,EPC3, 
+UFV ,Aventura (GD?),Copel,2025,0.0,EPC3, 
+UFV,Barro do Alto,Green Yellow,2025,6268280.69,EPC3, 
+UFV,Bom Jardim 2 e 5,Qair,2025,1793174.78,EPC3, 
+UFV,Bom Lugar,LigthSource,2025,4697505.67,EPC3, 
+UFV ,Bonito PERIMETRAL,Neoenergia,2025,8901675.76,EPC3, 
+UFV,Cobra I a X (UFV LINS?),Sem cliente final,2025,3370233.44,EPC3, 
+UFV,Cruzeiro do  Sul,Newave,2025,4299962.44,EPC3, 
+UFV,da Solatio,Sem cliente final,2025,0.0,EPC3, 
+UFV,Humaita,Ibvgot,2025,3933497.83,EPC3, 
+UFV,Lagoa  ,EDPR,2025,4479498.35,EPC3, 
+UFV,Lagoa do Sol I a V,Enel Green Power,2025,3861257.66,EPC3, 
+UFV,Sagarana,Essentia,2025,9910163.59,EPC3,Sigdo Koopers
+UFV,Sol do Araripe,Auren,2025,4396545.58,EPC3, 
+UFV,Sol do Piauí ll,Auren,2025,2741894.32,EPC3, 
+UFV,Sol do Piauí lll,Auren,2025,2779684.49,EPC3, 
+EOL,Aroeira,Sem cliente final,Sem Previsão,0.0,EPC3, 
+EOL,Brejinhos ,Sem cliente final,Sem Previsão,0.0,EPC3, 
+UFV,Caatinga 23 (GD?),Helexia,Sem Previsão,0.0,EPC3, 
+EOL ,Cajuína,Sem cliente final,Sem Previsão,0.0,EPC3, 
+UFV ,Coração de Maria (GD?),Helexia,Sem Previsão,0.0,EPC3, 
+EOL,Coxilha Negra,Eletrobrás,Sem Previsão,0.0,EPC3, 
+UFV,Cristalina,X-Elio,Sem Previsão,5838264.66,EPC3, 
+UFV,Fenix,EDPR,Sem Previsão,8699635.5,EPC3, 
+OUT,Fenix Alimentação Autônoma,EDPR,Sem Previsão,5918711.39,EPC3, 
+UFV ,Fótons de São Zacarias,Sem cliente final,Sem Previsão,3521143.23,EPC3, 
+UFV,Genesis,Pontoon,Sem Previsão,4209413.37,EPC3, 
+SE,Luziânia,StateGrid,Sem Previsão,1954877.52,EPC3, 
+UFV,Mauriti,PowerChina,Sem Previsão,12877386.28,EPC3, 
+UFV,Minas do Sol,EDPR,Sem Previsão,4581225.21,EPC3,Grupo Agis
+EOL,Passagens,Sem cliente final,Sem Previsão,0.0,EPC3, 
+EOL,Pedra Pintada,Enel,Sem Previsão,0.0,EPC3, 
+SE,Piaui Níquel,Sem cliente final,Sem Previsão,1347322.4,EPC3, 
+UFV,Serena,Sem cliente final,Sem Previsão,2490716.73,EPC3, 
+UFV,Serra da Babilônia,Rio Energy,Sem Previsão,3606482.02,EPC3, 
+EOL,Serra das Vacas,Sem cliente final,Sem Previsão,0.0,EPC3, 
+EOL,Serra do Assuruá,Engie,Sem Previsão,0.0,EPC3, 
+UFV ,Sol 345,Serena,Sem Previsão,2490716.73,EPC3, 
+UFV,Sol de Várzea,Matrix,Sem Previsão,2225674.49,EPC3, 
+TUN,Túnel Piraí,Light ,Sem Previsão,155887.24,EPC3, 
+EOL,Ventos de Santa Luzia,Sem cliente final,Sem Previsão,0.0,EPC3, 
+EOL,Ventos de São Roque,Sem cliente final,Sem Previsão,0.0,EPC3, 
+EOL,Ventos de São Zacarias,Sem cliente final,Sem Previsão,0.0,EPC3, 
+UFV,Arinos ,Sem cliente final,2024,5256618.11,EPC4, 
+UFV ,Babilonia Centro,Casa dos Ventos,2024,4213668.78,EPC4, 
+UFV ,Babilonia Sul,Casa dos Ventos,2024,4213668.78,EPC4, 
+UFV,Boa Esperança,CEMIG,2024,2229727.26,EPC4, 
+UFV,Bom Jardim 1 e 3,Qair,2024,3576177.88,EPC4, 
+UFV,Cajú Flutuante,Elera ,2024,1192961.01,EPC4, 
+UFV,Capitão Enéas,Sem cliente final,2024,2763781.5,EPC4, 
+UFV,Eliseu Martins,Sem cliente final,2024,2900730.17,EPC4, 
+UFV,Fótons de São M. FASE 1,Pan American Energy,2024,8548163.49,EPC4, 
+UFV,Fótons de São M. FASE 2,Pan American Energy,2024,4842048.0,EPC4, 
+SE,Frederico Westphalen,EDPR,Perdeu,882182.94,EPC4, 
+UHE ,Funil de Lavras,Aliança Energia,2024,985138.58,EPC4, 
+OUT,Futura - Ampliar Autonomia,Eneva,2024,0.0,EPC4, 
+UFV,Irapuru,Elera ,2024,7906990.84,EPC4, 
+UFV,Irecê II,Sem cliente final,2024,2676053.73,EPC4, 
+UFV,Lagoinha,CGN,2024,3856450.4,EPC4, 
+UFV,Luis Carlos A,Atlas Renewable,2024,6044932.24,EPC4,CESBE
+UFV,Luis Carlos B,Atlas Renewable,2024,7302142.19,EPC4, 
+UFV,Monte Verde 2,Sem cliente final,2024,4594991.67,EPC4, 
+UFV,Morro dos Cruzeiros,Statkraft,2024,2427566.87,EPC4, 
+REF,Refinaria Abreu e Lima,Petrobrás,2024,2694235.14,EPC4, 
+UFV,Riacho da Serra (Opção Fence),Exus Brasil,2024,4997612.63,EPC4, 
+UFV,Santa Eugênia,Statkraft,2024,4829741.81,EPC4, 
+UFV,Santa Luzia,Rio Alto,2024,2786008.29,EPC4, 
+EOL,Santo Agostinho,Engie,2024,0.0,EPC4, 
+UFV,São Vitor (Opção Fence),Essentia,2024,2981764.52,EPC4, 
+UFV,Serra do Mel 7,Voltalia,2024,5349318.28,EPC4, 
+UFV,Serrita,Eco Energia,Ganhou,2558786.06,EPC4, 
+UFV,Sobral,Cubico ,Perdeu,8577698.89,EPC4, 
+UFV ,Sol de Várzea,Matrix,2024,2225674.49,EPC4, 
+UFV,Sol do Agreste (Opção Fence),Atiaia,2024,6737698.81,EPC4, 
+UFV,Sol Serena,Sem cliente final,2024,2490716.73,EPC4, 
+EOL,Trairí,Engie,2024,3753045.34,EPC4, 
+SE,Vista Alegre,Atlas  ,Perdeu,1108544.64,EPC4, 
+OUT,Vista Alegre - Prédio O&M,Atlas,2024,334035.1,EPC4, 
+UFV,Arapuã,Kroma,2025,4176536.65,EPC4, 
+SE,Assú Solar,Engie,2025,897045.12,EPC4, 
+UFV ,Aventura (GD?),Copel,2025,0.0,EPC4, 
+UFV,Barro do Alto,Green Yellow,2025,6268280.69,EPC4, 
+UFV,Bom Jardim 2 e 5,Qair,2025,1793174.78,EPC4, 
+UFV,Bom Lugar,LigthSource,2025,4697505.67,EPC4, 
+UFV ,Bonito PERIMETRAL,Neoenergia,2025,8901675.76,EPC4, 
+UFV,Cobra I a X (UFV LINS?),Sem cliente final,2025,3370233.44,EPC4, 
+UFV,Cruzeiro do  Sul,Newave,2025,4299962.44,EPC4, 
+UFV,da Solatio,Sem cliente final,2025,0.0,EPC4, 
+UFV,Humaita,Ibvgot,2025,3933497.83,EPC4, 
+UFV,Lagoa  ,EDPR,2025,4479498.35,EPC4, 
+UFV,Lagoa do Sol I a V,Enel Green Power,2025,3861257.66,EPC4, 
+UFV,Sagarana,Essentia,2025,9910163.59,EPC4,Motrice
+UFV,Sol do Araripe,Auren,2025,4396545.58,EPC4, 
+UFV,Sol do Piauí ll,Auren,2025,2741894.32,EPC4, 
+UFV,Sol do Piauí lll,Auren,2025,2779684.49,EPC4, 
+EOL,Aroeira,Sem cliente final,Sem Previsão,0.0,EPC4, 
+EOL,Brejinhos ,Sem cliente final,Sem Previsão,0.0,EPC4, 
+UFV,Caatinga 23 (GD?),Helexia,Sem Previsão,0.0,EPC4, 
+EOL ,Cajuína,Sem cliente final,Sem Previsão,0.0,EPC4, 
+UFV ,Coração de Maria (GD?),Helexia,Sem Previsão,0.0,EPC4, 
+EOL,Coxilha Negra,Eletrobrás,Sem Previsão,0.0,EPC4, 
+UFV,Cristalina,X-Elio,Sem Previsão,5838264.66,EPC4, 
+UFV,Fenix,EDPR,Sem Previsão,8699635.5,EPC4, 
+OUT,Fenix Alimentação Autônoma,EDPR,Sem Previsão,5918711.39,EPC4, 
+UFV ,Fótons de São Zacarias,Sem cliente final,Sem Previsão,3521143.23,EPC4, 
+UFV,Genesis,Pontoon,Sem Previsão,4209413.37,EPC4, 
+SE,Luziânia,StateGrid,Sem Previsão,1954877.52,EPC4, 
+UFV,Mauriti,PowerChina,Sem Previsão,12877386.28,EPC4, 
+UFV,Minas do Sol,EDPR,Sem Previsão,4581225.21,EPC4, 
+EOL,Passagens,Sem cliente final,Sem Previsão,0.0,EPC4, 
+EOL,Pedra Pintada,Enel,Sem Previsão,0.0,EPC4, 
+SE,Piaui Níquel,Sem cliente final,Sem Previsão,1347322.4,EPC4, 
+UFV,Serena,Sem cliente final,Sem Previsão,2490716.73,EPC4, 
+UFV,Serra da Babilônia,Rio Energy,Sem Previsão,3606482.02,EPC4, 
+EOL,Serra das Vacas,Sem cliente final,Sem Previsão,0.0,EPC4, 
+EOL,Serra do Assuruá,Engie,Sem Previsão,0.0,EPC4, 
+UFV ,Sol 345,Serena,Sem Previsão,2490716.73,EPC4, 
+UFV,Sol de Várzea,Matrix,Sem Previsão,2225674.49,EPC4, 
+TUN,Túnel Piraí,Light ,Sem Previsão,155887.24,EPC4, 
+EOL,Ventos de Santa Luzia,Sem cliente final,Sem Previsão,0.0,EPC4, 
+EOL,Ventos de São Roque,Sem cliente final,Sem Previsão,0.0,EPC4, 
+EOL,Ventos de São Zacarias,Sem cliente final,Sem Previsão,0.0,EPC4, 
+UFV,Arinos ,Sem cliente final,2024,5256618.11,EPC5, 
+UFV ,Babilonia Centro,Casa dos Ventos,2024,4213668.78,EPC5, 
+UFV ,Babilonia Sul,Casa dos Ventos,2024,4213668.78,EPC5, 
+UFV,Boa Esperança,CEMIG,2024,2229727.26,EPC5, 
+UFV,Bom Jardim 1 e 3,Qair,2024,3576177.88,EPC5, 
+UFV,Cajú Flutuante,Elera ,2024,1192961.01,EPC5, 
+UFV,Capitão Enéas,Sem cliente final,2024,2763781.5,EPC5, 
+UFV,Eliseu Martins,Sem cliente final,2024,2900730.17,EPC5, 
+UFV,Fótons de São M. FASE 1,Pan American Energy,2024,8548163.49,EPC5, 
+UFV,Fótons de São M. FASE 2,Pan American Energy,2024,4842048.0,EPC5, 
+SE,Frederico Westphalen,EDPR,Perdeu,882182.94,EPC5, 
+UHE ,Funil de Lavras,Aliança Energia,2024,985138.58,EPC5, 
+OUT,Futura - Ampliar Autonomia,Eneva,2024,0.0,EPC5, 
+UFV,Irapuru,Elera ,2024,7906990.84,EPC5, 
+UFV,Irecê II,Sem cliente final,2024,2676053.73,EPC5, 
+UFV,Lagoinha,CGN,2024,3856450.4,EPC5, 
+UFV,Luis Carlos A,Atlas Renewable,2024,6044932.24,EPC5,BN
+UFV,Luis Carlos B,Atlas Renewable,2024,7302142.19,EPC5, 
+UFV,Monte Verde 2,Sem cliente final,2024,4594991.67,EPC5, 
+UFV,Morro dos Cruzeiros,Statkraft,2024,2427566.87,EPC5, 
+REF,Refinaria Abreu e Lima,Petrobrás,2024,2694235.14,EPC5, 
+UFV,Riacho da Serra (Opção Fence),Exus Brasil,2024,4997612.63,EPC5, 
+UFV,Santa Eugênia,Statkraft,2024,4829741.81,EPC5, 
+UFV,Santa Luzia,Rio Alto,2024,2786008.29,EPC5, 
+EOL,Santo Agostinho,Engie,2024,0.0,EPC5, 
+UFV,São Vitor (Opção Fence),Essentia,2024,2981764.52,EPC5, 
+UFV,Serra do Mel 7,Voltalia,2024,5349318.28,EPC5, 
+UFV,Serrita,Eco Energia,Ganhou,2558786.06,EPC5, 
+UFV,Sobral,Cubico ,Perdeu,8577698.89,EPC5, 
+UFV ,Sol de Várzea,Matrix,2024,2225674.49,EPC5, 
+UFV,Sol do Agreste (Opção Fence),Atiaia,2024,6737698.81,EPC5, 
+UFV,Sol Serena,Sem cliente final,2024,2490716.73,EPC5, 
+EOL,Trairí,Engie,2024,3753045.34,EPC5, 
+SE,Vista Alegre,Atlas  ,Perdeu,1108544.64,EPC5, 
+OUT,Vista Alegre - Prédio O&M,Atlas,2024,334035.1,EPC5, 
+UFV,Arapuã,Kroma,2025,4176536.65,EPC5, 
+SE,Assú Solar,Engie,2025,897045.12,EPC5, 
+UFV ,Aventura (GD?),Copel,2025,0.0,EPC5, 
+UFV,Barro do Alto,Green Yellow,2025,6268280.69,EPC5, 
+UFV,Bom Jardim 2 e 5,Qair,2025,1793174.78,EPC5, 
+UFV,Bom Lugar,LigthSource,2025,4697505.67,EPC5, 
+UFV ,Bonito PERIMETRAL,Neoenergia,2025,8901675.76,EPC5, 
+UFV,Cobra I a X (UFV LINS?),Sem cliente final,2025,3370233.44,EPC5, 
+UFV,Cruzeiro do  Sul,Newave,2025,4299962.44,EPC5, 
+UFV,da Solatio,Sem cliente final,2025,0.0,EPC5, 
+UFV,Humaita,Ibvgot,2025,3933497.83,EPC5, 
+UFV,Lagoa  ,EDPR,2025,4479498.35,EPC5, 
+UFV,Lagoa do Sol I a V,Enel Green Power,2025,3861257.66,EPC5, 
+UFV,Sagarana,Essentia,2025,9910163.59,EPC5,AG
+UFV,Sol do Araripe,Auren,2025,4396545.58,EPC5, 
+UFV,Sol do Piauí ll,Auren,2025,2741894.32,EPC5, 
+UFV,Sol do Piauí lll,Auren,2025,2779684.49,EPC5, 
+EOL,Aroeira,Sem cliente final,Sem Previsão,0.0,EPC5, 
+EOL,Brejinhos ,Sem cliente final,Sem Previsão,0.0,EPC5, 
+UFV,Caatinga 23 (GD?),Helexia,Sem Previsão,0.0,EPC5, 
+EOL ,Cajuína,Sem cliente final,Sem Previsão,0.0,EPC5, 
+UFV ,Coração de Maria (GD?),Helexia,Sem Previsão,0.0,EPC5, 
+EOL,Coxilha Negra,Eletrobrás,Sem Previsão,0.0,EPC5, 
+UFV,Cristalina,X-Elio,Sem Previsão,5838264.66,EPC5, 
+UFV,Fenix,EDPR,Sem Previsão,8699635.5,EPC5, 
+OUT,Fenix Alimentação Autônoma,EDPR,Sem Previsão,5918711.39,EPC5, 
+UFV ,Fótons de São Zacarias,Sem cliente final,Sem Previsão,3521143.23,EPC5, 
+UFV,Genesis,Pontoon,Sem Previsão,4209413.37,EPC5, 
+SE,Luziânia,StateGrid,Sem Previsão,1954877.52,EPC5, 
+UFV,Mauriti,PowerChina,Sem Previsão,12877386.28,EPC5, 
+UFV,Minas do Sol,EDPR,Sem Previsão,4581225.21,EPC5, 
+EOL,Passagens,Sem cliente final,Sem Previsão,0.0,EPC5, 
+EOL,Pedra Pintada,Enel,Sem Previsão,0.0,EPC5, 
+SE,Piaui Níquel,Sem cliente final,Sem Previsão,1347322.4,EPC5, 
+UFV,Serena,Sem cliente final,Sem Previsão,2490716.73,EPC5, 
+UFV,Serra da Babilônia,Rio Energy,Sem Previsão,3606482.02,EPC5, 
+EOL,Serra das Vacas,Sem cliente final,Sem Previsão,0.0,EPC5, 
+EOL,Serra do Assuruá,Engie,Sem Previsão,0.0,EPC5, 
+UFV ,Sol 345,Serena,Sem Previsão,2490716.73,EPC5, 
+UFV,Sol de Várzea,Matrix,Sem Previsão,2225674.49,EPC5, 
+TUN,Túnel Piraí,Light ,Sem Previsão,155887.24,EPC5, 
+EOL,Ventos de Santa Luzia,Sem cliente final,Sem Previsão,0.0,EPC5, 
+EOL,Ventos de São Roque,Sem cliente final,Sem Previsão,0.0,EPC5, 
+EOL,Ventos de São Zacarias,Sem cliente final,Sem Previsão,0.0,EPC5, 
